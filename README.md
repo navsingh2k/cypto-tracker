@@ -11,4 +11,4 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 - [Firebase](https://firebase.google.com/)
 
-created By: Shubham Bharti
+created By: Navneet Singh
